@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Bakhtawar Fahim</h1>
-<h3 align="center">MERN Stack, AI Chatbot And Voice App Developer</h3>
+<h3 align="center">MERN Stack Developer and Data Science Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-bakhtawar-fahim&label=Profile%20views&color=0e75b6&style=flat" alt="syed-bakhtawar-fahim" /> </p>
 
