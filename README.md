@@ -10,8 +10,6 @@
 <!-- - 👨‍💻 All of my projects are available at [https://xnitia-team.netlify.app/](https://xnitia-team.netlify.app/) -->
 - 👨‍💻 All of my projects are available at [https://syed-bakhtawar-fahim.netlify.app/](https://syed-bakhtawar-fahim.netlify.app/)
 
-- 👨‍💻 Check my resume at [https://syed-bakhtawar-fahim.github.io/MyPortfolio/](https://syed-bakhtawar-fahim.github.io/MyPortfolio/)
-
 - 📫 How to reach me **bakhtawarfahim10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -21,6 +19,7 @@
 <a href="https://stackoverflow.com/users/syed bakhtawar fahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="syed bakhtawar fahim" height="30" width="40" /></a>
 <a href="https://fb.com/bakhtawar hamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bakhtawar hamza" height="30" width="40" /></a>
 <a href="https://instagram.com/bakhtawar._.fahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bakhtawar._.fahim" height="30" width="40" /></a>
+<a href="https://medium.com/@bakhtawarfahim10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Bakhtawar Fahim" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
