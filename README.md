@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-bakhtawar-fahim&label=Profile%20views&color=0e75b6&style=flat" alt="syed-bakhtawar-fahim" /> </p>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=syed-bakhtawar-fahim&label=Profile%20views&color=0e75b6&style=flat" alt="syed-bakhtawar-fahim](https://www.canva.com/design/DAFR-uz-XfE/7XtybU1Xo04nLq90a4jTFw/view?utm_content=DAFR-uz-XfE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)" /> </p>
+<p align="left"> <img src="https://firebasestorage.googleapis.com/v0/b/reactaideveloper.appspot.com/o/Syed%20bakhtawar%20fahim%20(1).png?alt=media&token=04922c91-9170-4eb0-b487-2e9cfcaab0c4" /> </p>
 
 <h3 align="left">About Me:</h3>
 <p align="left">I’m MERN Stack Developer and Data Engineering Student with 2+ years of experience delivering full-stack web and advisory services to high-value clients. I did worked with both frontend and backend of a website or application to provide end-to-end services and also worked closely with the UX/UI team on Figma/Wireframe to build amazing user-friendly website. Love building quality websites and application using JavaScript. Looking for an opportunity to work in Data Engineering with top technology firm.</p>
@@ -33,5 +33,5 @@
 <br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syed-bakhtawar-fahim&show_icons=true&locale=en" alt="syed-bakhtawar-fahim" /></p>
 <!-- </br></br> -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syed-bakhtawar-fahim&" alt="syed-bakhtawar-fahim" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syed-bakhtawar-fahim&" alt="syed-bakhtawar-fahim" /></p> --> -->
 
