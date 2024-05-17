@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Bakhtawar Fahim</h1>
-<h3 align="center">MERN Stack Developer and Data Engineer</h3>
+<h3 align="center">Software & Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-bakhtawar-fahim&label=Profile%20views&color=0e75b6&style=flat" alt="syed-bakhtawar-fahim" /> </p>
 
@@ -16,16 +16,16 @@ I am keen to explore opportunities to work in Data Engineering with a top-tier t
 <!-- <p align="left"> <a href="https://twitter.com/syed bakhtawar fahim" target="blank"><img src="https://img.shields.io/twitter/follow/syed bakhtawar fahim?logo=twitter&style=for-the-badge" alt="syed bakhtawar fahim" /></a> </p> -->
 
 <!-- - 👨‍💻 All of my projects are available at [https://xnitia-team.netlify.app/](https://xnitia-team.netlify.app/) -->
-- 👨‍💻 I'm currently learning Data Engineering. 
-- 👨‍💻 All of my projects are available at [https://syed-bakhtawar-fahim.netlify.app/](https://syed-bakhtawar-fahim.netlify.app/)
-
+- 👨‍💻 I'm currently learning Data Engineering.
+- Certified Data Engineer From <a href = "https://www.karachidotai.com/">Karachi AI</a> 
 - 📫 How to reach me **bakhtawarfahim10@gmail.com**
+- 📫 How to reach me **bakhtawar@techxudo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/syed bakhtawar fahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syed bakhtawar fahim" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bigdataengineer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed bakhtawar fahim" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/syed bakhtawar fahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="syed bakhtawar fahim" height="30" width="40" /></a>
+<a href="[https://stackoverflow.com/users/syed bakhtawar fahim](https://stackoverflow.com/users/19267514/syed-bakhtawar-fahim)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="syed bakhtawar fahim" height="30" width="40" /></a>
 <a href="https://fb.com/bakhtawar hamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bakhtawar hamza" height="30" width="40" /></a>
 <a href="https://instagram.com/bakhtawar._.fahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bakhtawar._.fahim" height="30" width="40" /></a>
 <a href="https://medium.com/@bakhtawarfahim10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Bakhtawar Fahim" height="30" width="40" /></a>
