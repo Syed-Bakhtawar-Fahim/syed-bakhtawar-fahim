@@ -1,31 +1,42 @@
 <h1 align="center">Hi 👋, I'm Syed Bakhtawar Fahim</h1>
 <h3 align="center">Software & Data Engineer</h3>
 
+<!--  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-bakhtawar-fahim&label=Profile%20views&color=0e75b6&style=flat" alt="syed-bakhtawar-fahim" /> </p>
 
 <p align="left"> <img src="https://firebasestorage.googleapis.com/v0/b/reactaideveloper.appspot.com/o/Syed%20bakhtawar%20fahim%20(1).png?alt=media&token=04922c91-9170-4eb0-b487-2e9cfcaab0c4" /> </p>
 
+-->
+
 <h3 align="left">About Me:</h3>
-<p align="left">My name is Syed Bakhtawar Fahim and I am currently pursuing my Bachelor's degree in Software Engineering (BSSE) from UBIT, University of Karachi. As an experienced MERN Stack Developer, I have had the privilege of delivering full-stack web and advisory services to esteemed clients for over 2 years.
+<p align="left">I am a Certified Data Engineer and experienced Full Stack Developer with over 3 years of experience delivering full-stack web, advanced analytical data engineering projects, and advisory services to high-value clients. 
+Currently, I work as a Data Engineer at Xnitia Remotely, where I leverage AWS services and use big data tools like PySpark, etc for projects. 
+Additionally, I serve as a CTO at Techxudo, overseeing various technological initiatives and ensuring the delivery of top-notch solutions to our clients. 
 
-My expertise spans across both frontend and backend development, enabling me to provide end-to-end services to clients. Additionally, I have worked in close collaboration with UX/UI teams, utilizing tools such as Figma and Wireframe, to create user-friendly websites that offer exceptional user experiences.
+Core & Technical Expertise
+🖥️ Full Stack Development
+📊 Data Engineering
+💼 Business Consultancy
 
-I am keen to explore opportunities to work in Data Engineering with a top-tier technology firm, where I can utilize my skills to their fullest potential.</p>
+
+🖋️ Explore my Medium blogs for thoughtfully crafted insights. Your time invested promises a journey through diverse topics
+https://medium.com/@bakhtawarfahim10</p>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syed-bakhtawar-fahim" alt="syed-bakhtawar-fahim" /></a> </p> -->
 
 <!-- <p align="left"> <a href="https://twitter.com/syed bakhtawar fahim" target="blank"><img src="https://img.shields.io/twitter/follow/syed bakhtawar fahim?logo=twitter&style=for-the-badge" alt="syed bakhtawar fahim" /></a> </p> -->
 
 <!-- - 👨‍💻 All of my projects are available at [https://xnitia-team.netlify.app/](https://xnitia-team.netlify.app/) -->
 - 👨‍💻 I'm currently learning Data Engineering.
-- Certified Data Engineer From <a href = "https://www.karachidotai.com/">Karachi AI</a> 
+- Certified Data Engineer From <a href = "https://www.karachidotai.com/" target="blank">Karachi AI</a> 
 - 📫 How to reach me **bakhtawarfahim10@gmail.com**
 - 📫 How to reach me **bakhtawar@techxudo.com**
+- I love to share my experiences and knowledge with others and I found the best way of it
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/syed bakhtawar fahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syed bakhtawar fahim" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bigdataengineer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed bakhtawar fahim" height="30" width="40" /></a>
-<a href="[https://stackoverflow.com/users/syed bakhtawar fahim](https://stackoverflow.com/users/19267514/syed-bakhtawar-fahim)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="syed bakhtawar fahim" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19267514/syed-bakhtawar-fahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="syed bakhtawar fahim" height="30" width="40" /></a>
 <a href="https://fb.com/bakhtawar hamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bakhtawar hamza" height="30" width="40" /></a>
 <a href="https://instagram.com/bakhtawar._.fahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bakhtawar._.fahim" height="30" width="40" /></a>
 <a href="https://medium.com/@bakhtawarfahim10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Bakhtawar Fahim" height="30" width="40" /></a>
