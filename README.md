@@ -13,10 +13,10 @@
 Currently, I work as a Data Engineer at Xnitia Remotely, where I leverage AWS services and use big data tools like PySpark, etc for projects. 
 Additionally, I serve as a CTO at Techxudo, overseeing various technological initiatives and ensuring the delivery of top-notch solutions to our clients. 
 
-Core & Technical Expertise
-🖥️ Full Stack Development
-📊 Data Engineering
-💼 Business Consultancy
+<strong>Core & Technical Expertise</strong>
+- 🖥️ Full Stack Development
+- 📊 Data Engineering
+- 💼 Business Consultancy
 
 
 🖋️ Explore my Medium blogs for thoughtfully crafted insights. Your time invested promises a journey through diverse topics
