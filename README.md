@@ -10,8 +10,8 @@
 
 <h3 align="left">About Me:</h3>
 <p align="left">I am a Certified Data Engineer and experienced Full Stack Developer with over 3 years of experience delivering full-stack web, advanced analytical data engineering projects, and advisory services to high-value clients. 
-Currently, I work as a Data Engineer at Xnitia Remotely, where I leverage AWS services and use big data tools like PySpark, etc for projects. 
-Additionally, I serve as a CTO at Techxudo, overseeing various technological initiatives and ensuring the delivery of top-notch solutions to our clients. 
+I had worked as a Data Engineer at Xnitia Remotely, where I leverage AWS services and use big data tools like PySpark, etc for projects. 
+Additionally, I serve as a Senior Software Engineer at Techxudo, overseeing various technological initiatives and ensuring the delivery of top-notch solutions to our clients. 
 
 <strong>Core & Technical Expertise</strong>
 - 🖥️ Full Stack Development
