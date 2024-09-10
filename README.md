@@ -34,7 +34,7 @@ https://medium.com/@bakhtawarfahim10</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/syed bakhtawar fahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syed bakhtawar fahim" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/syed bakhtawar fahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syed bakhtawar fahim" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/bigdataengineer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed bakhtawar fahim" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19267514/syed-bakhtawar-fahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="syed bakhtawar fahim" height="30" width="40" /></a>
 <a href="https://fb.com/bakhtawar hamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bakhtawar hamza" height="30" width="40" /></a>
@@ -51,7 +51,12 @@ https://medium.com/@bakhtawarfahim10</p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syed-bakhtawar-fahim&show_icons=true&locale=en&layout=compact" alt="syed-bakhtawar-fahim" /></p> -->
 <!-- <br><br> -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syed-bakhtawar-fahim&show_icons=true&locale=en" alt="syed-bakhtawar-fahim" /></p> 
+
+<!-- -
+<div align = "center">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syed-bakhtawar-fahim&show_icons=true&locale=en" alt="syed-bakhtawar-fahim" /></p> 
 </br></br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syed-bakhtawar-fahim&" alt="syed-bakhtawar-fahim" /></p>
+</div>
+->
 
