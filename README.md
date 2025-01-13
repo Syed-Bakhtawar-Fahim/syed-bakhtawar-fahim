@@ -29,7 +29,7 @@ https://medium.com/@bakhtawarfahim10</p>
 - 👨‍💻 I'm currently learning Data Engineering.
 - Certified Data Engineer From <a href = "https://www.karachidotai.com/" target="blank">Karachi AI</a> 
 - 📫 How to reach me **bakhtawarfahim10@gmail.com**
-- 📫 How to reach me **bakhtawar@techxudo.com**
+- 📫 How to reach me **bfahim@regtigy.com**
 - I love to share my experiences and knowledge with others and I found the best way of it
 
 <h3 align="left">Connect with me:</h3>
@@ -42,7 +42,7 @@ https://medium.com/@bakhtawarfahim10</p>
 <a href="https://medium.com/@bakhtawarfahim10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Bakhtawar Fahim" height="30" width="40" /></a>
 </p>
 
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Syed-Bakhtawar-Fahim" alt="GitHub Streak" /></a>
 <!-- <h1>Profile Statistics</h1>
 ![Syed Bakhtawar fahim](https://github-readme-stats.vercel.app/api?username=syed-bakhtawar-fahim&show_icons=true&theme=radical) -->
 
