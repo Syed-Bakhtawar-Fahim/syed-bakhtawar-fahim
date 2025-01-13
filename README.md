@@ -29,7 +29,7 @@ https://medium.com/@bakhtawarfahim10</p>
 - 👨‍💻 I'm currently learning Data Engineering.
 - Certified Data Engineer From <a href = "https://www.karachidotai.com/" target="blank">Karachi AI</a> 
 - 📫 How to reach me **bakhtawarfahim10@gmail.com**
-- 📫 How to reach me **bfahim@regtigy.com**
+- 📫 How to reach me **bfahim@regtify.com**
 - I love to share my experiences and knowledge with others and I found the best way of it
 
 <h3 align="left">Connect with me:</h3>
