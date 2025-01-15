@@ -26,7 +26,7 @@ https://medium.com/@bakhtawarfahim10</p>
 <!-- <p align="left"> <a href="https://twitter.com/syed bakhtawar fahim" target="blank"><img src="https://img.shields.io/twitter/follow/syed bakhtawar fahim?logo=twitter&style=for-the-badge" alt="syed bakhtawar fahim" /></a> </p> -->
 
 <!-- - 👨‍💻 All of my projects are available at [https://xnitia-team.netlify.app/](https://xnitia-team.netlify.app/) -->
-- 👨‍💻 I'm currently learning Data Engineering.
+- 👨‍💻 I'm currently learning Advanced backend & NestJS.
 - Certified Data Engineer From <a href = "https://www.karachidotai.com/" target="blank">Karachi AI</a> 
 - 📫 How to reach me **bakhtawarfahim10@gmail.com**
 - 📫 How to reach me **bfahim@regtify.com**
