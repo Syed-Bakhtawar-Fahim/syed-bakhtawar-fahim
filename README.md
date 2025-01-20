@@ -45,8 +45,12 @@ https://medium.com/@bakhtawarfahim10</p>
 <a href="https://medium.com/@bakhtawarfahim10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Bakhtawar Fahim" height="30" width="40" /></a>
 </p>
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Bakhtawar%20Hamza-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/bigdataengineer?trk=profile-badge)
+
+<!-- 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="bigdataengineer" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/bigdataengineer?trk=profile-badge">Bakhtawar Hamza</a></div>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>            
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>  
+-->          
 
 <!-- <h1>Profile Statistics</h1>
 ![Syed Bakhtawar fahim](https://github-readme-stats.vercel.app/api?username=syed-bakhtawar-fahim&show_icons=true&theme=radical) -->
