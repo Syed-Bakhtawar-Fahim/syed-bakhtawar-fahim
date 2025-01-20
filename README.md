@@ -37,7 +37,16 @@ https://medium.com/@bakhtawarfahim10</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://twitter.com/syed bakhtawar fahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syed bakhtawar fahim" height="30" width="40" /></a> -->
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Bakhtawar%20Hamza-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bigdataengineer/)
+  [![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-Bakhtawar%20Hamza-orange?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/19267514/syed-bakhtawar-fahim)
+  [![Facebook Badge](https://img.shields.io/badge/Facebook-Bakhtawar%20Hamza-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/bakhtawarhamza)
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-Bakhtawar%20Fahim-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bakhtawar._.fahim)
+  [![Medium Badge](https://img.shields.io/badge/Medium-Bakhtawar%20Fahim-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bakhtawarfahim10)
+</p>
+
+<!-- 
+<p align="left">
+
 <a href="https://www.linkedin.com/in/bigdataengineer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed bakhtawar fahim" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19267514/syed-bakhtawar-fahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="syed bakhtawar fahim" height="30" width="40" /></a>
 <a href="https://fb.com/bakhtawar hamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bakhtawar hamza" height="30" width="40" /></a>
@@ -47,11 +56,13 @@ https://medium.com/@bakhtawarfahim10</p>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Bakhtawar%20Hamza-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/bigdataengineer?trk=profile-badge)
 
+--> 
+
 <!-- 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="bigdataengineer" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/bigdataengineer?trk=profile-badge">Bakhtawar Hamza</a></div>
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>  
 -->          
-
+<!-- <a href="https://twitter.com/syed bakhtawar fahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syed bakhtawar fahim" height="30" width="40" /></a> -->
 <!-- <h1>Profile Statistics</h1>
 ![Syed Bakhtawar fahim](https://github-readme-stats.vercel.app/api?username=syed-bakhtawar-fahim&show_icons=true&theme=radical) -->
 
