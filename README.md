@@ -46,7 +46,7 @@ https://medium.com/@bakhtawarfahim10</p>
 </p>
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="bigdataengineer" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/bigdataengineer?trk=profile-badge">Bakhtawar Hamza</a></div>
-              
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>            
 
 <!-- <h1>Profile Statistics</h1>
 ![Syed Bakhtawar fahim](https://github-readme-stats.vercel.app/api?username=syed-bakhtawar-fahim&show_icons=true&theme=radical) -->
