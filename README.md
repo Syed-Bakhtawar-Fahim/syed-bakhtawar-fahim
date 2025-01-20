@@ -14,7 +14,7 @@ Additionally, I serve as a Senior Software Engineer at Techxudo, overseeing vari
 -->
 
 <h3 align="left">About Me:</h3>
-<p align="left"> I am a Certified Data Engineer from Karachi AI Community and Full Stack Developer with over three years of experience delivering full-stack web and advanced analytical data engineering projects. I work at Regtify, a Cyprus-based fintech company, focusing on developing innovative solutions for the financial sector. Previously, at Xnitia, I leveraged AWS services and big data tools like PySpark. I have also worked as a Senior Software Engineer at Techxudo, overseeing technological initiatives and ensuring top-notch solutions for our clients.
+<p align="left"> I am a <strong>Certified Data Engineer</strong> from Karachi AI Community and <strong>Full Stack Developer</strong> with over three years of experience delivering full-stack web and advanced analytical data engineering projects. I work at <strong>Regtify</strong>, a Cyprus-based fintech company, focusing on developing innovative solutions for the financial sector. Previously, at Xnitia, I leveraged AWS services and big data tools like PySpark. I have also worked as a Senior Software Engineer at Techxudo, overseeing technological initiatives and ensuring top-notch solutions for our clients.
 
 <strong>Core & Technical Expertise</strong>
 - 🖥️ Full Stack Development
