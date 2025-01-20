@@ -8,13 +8,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-bakhtawar-fahim&label=Profile%20views&color=0e75b6&style=flat" alt="syed-bakhtawar-fahim" /> </p>
 
 <p align="left"> <img src="https://firebasestorage.googleapis.com/v0/b/reactaideveloper.appspot.com/o/Syed%20bakhtawar%20fahim%20(1).png?alt=media&token=04922c91-9170-4eb0-b487-2e9cfcaab0c4" /> </p>
-
+I am a Certified Data Engineer and experienced Full Stack Developer with over 3 years of experience delivering full-stack web, advanced analytical data engineering projects, and advisory services to high-value clients. 
+I had worked as a Data Engineer at Xnitia Remotely, where I leverage AWS services and use big data tools like PySpark, etc for projects. 
+Additionally, I serve as a Senior Software Engineer at Techxudo, overseeing various technological initiatives and ensuring the delivery of top-notch solutions to our clients.
 -->
 
 <h3 align="left">About Me:</h3>
-<p align="left">I am a Certified Data Engineer and experienced Full Stack Developer with over 3 years of experience delivering full-stack web, advanced analytical data engineering projects, and advisory services to high-value clients. 
-I had worked as a Data Engineer at Xnitia Remotely, where I leverage AWS services and use big data tools like PySpark, etc for projects. 
-Additionally, I serve as a Senior Software Engineer at Techxudo, overseeing various technological initiatives and ensuring the delivery of top-notch solutions to our clients. 
+<p align="left"> I am a Certified Data Engineer from Karachi AI Community and Full Stack Developer with over three years of experience delivering full-stack web and advanced analytical data engineering projects. I work at Regtify, a Cyprus-based fintech company, focusing on developing innovative solutions for the financial sector. Previously, at Xnitia, I leveraged AWS services and big data tools like PySpark. I have also worked as a Senior Software Engineer at Techxudo, overseeing technological initiatives and ensuring top-notch solutions for our clients.
 
 <strong>Core & Technical Expertise</strong>
 - 🖥️ Full Stack Development
@@ -29,7 +29,7 @@ https://medium.com/@bakhtawarfahim10</p>
 <!-- <p align="left"> <a href="https://twitter.com/syed bakhtawar fahim" target="blank"><img src="https://img.shields.io/twitter/follow/syed bakhtawar fahim?logo=twitter&style=for-the-badge" alt="syed bakhtawar fahim" /></a> </p> -->
 
 <!-- - 👨‍💻 All of my projects are available at [https://xnitia-team.netlify.app/](https://xnitia-team.netlify.app/) -->
-- 👨‍💻 I'm currently learning Advanced backend & NestJS.
+- 👨‍💻 I'm currently learning Advanced Backend & NestJS.
 - Certified Data Engineer From <a href = "https://www.karachidotai.com/" target="blank">Karachi AI</a> 
 - 📫 How to reach me **bakhtawarfahim10@gmail.com**
 - 📫 How to reach me **bfahim@regtify.com**
