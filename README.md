@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://media.licdn.com/dms/image/v2/D4D16AQGpGjMl4cMdjA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737218047829?e=1743033600&v=beta&t=Xl6Rng3XRN7kbW_XQif0ydkeGMqNFB-BxBHyz4nHJZg" alt="syed-bakhtawar-fahim" /> </p>
 -->
 
-<p align="left"> <img src="https://media.licdn.com/dms/image/v2/D4D16AQEOL3yiNFjOSQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737453288404?e=1743033600&v=beta&t=xu4P8Rqyf1CZGAXyVPogT8g6POEHR00rGlIB6H_VXgU" /> </p>
+<p align="left"> <img src="https://media.licdn.com/dms/image/v2/D4D16AQEfIDvQ_A5Ffw/profile-displaybackgroundimage-shrink_350_1400/B4DZWBv1FIGkAg-/0/1741638560923?e=1747267200&v=beta&t=MKevjr37Nc34QjTpSOkODpCAXFtiIRdh0Dy2cb1Ase8" /> </p>
 
 
 <!--  
