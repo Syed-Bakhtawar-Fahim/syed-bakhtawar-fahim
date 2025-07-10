@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://media.licdn.com/dms/image/v2/D4D16AQGpGjMl4cMdjA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737218047829?e=1743033600&v=beta&t=Xl6Rng3XRN7kbW_XQif0ydkeGMqNFB-BxBHyz4nHJZg" alt="syed-bakhtawar-fahim" /> </p>
 -->
 
-<p align="left"> <img src="https://media.licdn.com/dms/image/v2/D4D16AQEfIDvQ_A5Ffw/profile-displaybackgroundimage-shrink_350_1400/B4DZWBv1FIGkAg-/0/1741638560923?e=1747267200&v=beta&t=MKevjr37Nc34QjTpSOkODpCAXFtiIRdh0Dy2cb1Ase8" /> </p>
+<p align="left"> <img src="[https://media.licdn.com/dms/image/v2/D4D16AQEfIDvQ_A5Ffw/profile-displaybackgroundimage-shrink_350_1400/B4DZWBv1FIGkAg-/0/1741638560923?e=1747267200&v=beta&t=MKevjr37Nc34QjTpSOkODpCAXFtiIRdh0Dy2cb1Ase8](https://media.licdn.com/dms/image/v2/D4D16AQExRBoO8RBwgQ/profile-displaybackgroundimage-shrink_350_1400/B4DZfaZn2fGgAc-/0/1751715840220?e=1757548800&v=beta&t=4NYRdvlhrD8UV6siDOllDeYAuOkOVf862hWOlbH4OcM)" /> </p>
 
 
 <!--  
