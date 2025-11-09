@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://media.licdn.com/dms/image/v2/D4D16AQGpGjMl4cMdjA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737218047829?e=1743033600&v=beta&t=Xl6Rng3XRN7kbW_XQif0ydkeGMqNFB-BxBHyz4nHJZg" alt="syed-bakhtawar-fahim" /> </p>
 -->
 
-<p align="left"> <img src="https://media.licdn.com/dms/image/v2/D4D16AQElbIaEkoeugA/profile-displaybackgroundimage-shrink_350_1400/B4DZjS3pR9H0AY-/0/1755884460966?e=1758758400&v=beta&t=cXskN0SSbRMilBhj2k1CxWgq5SyE8VIrZ1q8P5hPAO0" /> </p>
+<p align="left"> <img src="https://media.licdn.com/dms/image/v2/D4D16AQElbIaEkoeugA/profile-displaybackgroundimage-shrink_350_1400/B4DZjS3pR9H0AY-/0/1755884460966?e=1764201600&v=beta&t=XY7Vt5GQ5VWPlAfINpq4in6U6er7WA9xlvzUMJpRnyk" /> </p>
 
 
 <!--  
@@ -33,7 +33,7 @@ https://medium.com/@bakhtawarfahim10</p>
 
 <!-- <p align="left"> <a href="https://twitter.com/syed bakhtawar fahim" target="blank"><img src="https://img.shields.io/twitter/follow/syed bakhtawar fahim?logo=twitter&style=for-the-badge" alt="syed bakhtawar fahim" /></a> </p> -->
 
-<!-- - 👨‍💻 All of my projects are available at [https://xnitia-team.netlify.app/](https://xnitia-team.netlify.app/) -->
+- 👨‍💻 All of my projects are available at [Syed Bakhtawar Fahim | Portfolio](https://syedbakhtawarfahim.dev/)
 - 👨‍💻 I'm currently learning Advanced Backend & NestJS.
 - Certified Data Engineer From <a href = "https://www.karachidotai.com/" target="blank">Karachi AI</a> 
 - 📫 How to reach me **bakhtawarfahim10@gmail.com**
