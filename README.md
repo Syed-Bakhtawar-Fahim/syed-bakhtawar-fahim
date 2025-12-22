@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Syed Bakhtawar Fahim</h1>
 <h3 align="center">Software & Data Engineer</h3>
-<iframe src="https://syedbakhtawarfahim.dev">
+
 <p align="center">
   <a href="https://syedbakhtawarfahim.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/portfolio-preview.png" alt="My Portfolio" width="400"/>
+    <img src="https://res.cloudinary.com/dxn7uoj80/image/upload/v1766394285/SendEmail/syedbakhtawarfahim_dev_c79fecb0395a_gclrbk.png" alt="My Portfolio" width="400"/>
   </a>
 </p>
 <!-- 
