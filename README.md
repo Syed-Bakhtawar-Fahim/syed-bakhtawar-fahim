@@ -2,7 +2,7 @@
 <h3 align="center">Software & Data Engineer</h3>
 
 <p align="center">
-  <a href="https://syedbakhtawarfahim.dev/" target="_blank">
+  <a href="https://syedbakhtawarfahim.dev/" target="_blank" rel="noopener noreferrer">
     <img src="https://res.cloudinary.com/dxn7uoj80/image/upload/v1766394285/SendEmail/syedbakhtawarfahim_dev_c79fecb0395a_gclrbk.png" alt="My Portfolio" width="800"/>
   </a>
 </p>
