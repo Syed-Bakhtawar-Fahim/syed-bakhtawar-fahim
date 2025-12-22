@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://syedbakhtawarfahim.dev/" target="_blank">
-    <img src="https://res.cloudinary.com/dxn7uoj80/image/upload/v1766394285/SendEmail/syedbakhtawarfahim_dev_c79fecb0395a_gclrbk.png" alt="My Portfolio" width="400"/>
+    <img src="https://res.cloudinary.com/dxn7uoj80/image/upload/v1766394285/SendEmail/syedbakhtawarfahim_dev_c79fecb0395a_gclrbk.png" alt="My Portfolio" width="800"/>
   </a>
 </p>
 <!-- 
