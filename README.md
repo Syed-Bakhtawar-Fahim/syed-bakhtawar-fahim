@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Syed Bakhtawar Fahim</h1>
 <h3 align="center">Software & Data Engineer</h3>
 
-
+<p align="center">
+  <a href="https://syedbakhtawarfahim.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/portfolio-preview.png" alt="My Portfolio" width="400"/>
+  </a>
+</p>
 <!-- 
 <p align="left"> <img src="https://media.licdn.com/dms/image/v2/D4D16AQGpGjMl4cMdjA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737218047829?e=1743033600&v=beta&t=Xl6Rng3XRN7kbW_XQif0ydkeGMqNFB-BxBHyz4nHJZg" alt="syed-bakhtawar-fahim" /> </p>
 -->
 
-<p align="left"> <img src="https://media.licdn.com/dms/image/v2/D4D16AQElbIaEkoeugA/profile-displaybackgroundimage-shrink_350_1400/B4DZjS3pR9H0AY-/0/1755884460966?e=1764201600&v=beta&t=XY7Vt5GQ5VWPlAfINpq4in6U6er7WA9xlvzUMJpRnyk" /> </p>
+<!-- <p align="left"> <img src="https://media.licdn.com/dms/image/v2/D4D16AQElbIaEkoeugA/profile-displaybackgroundimage-shrink_350_1400/B4DZjS3pR9H0AY-/0/1755884460966?e=1764201600&v=beta&t=XY7Vt5GQ5VWPlAfINpq4in6U6er7WA9xlvzUMJpRnyk" /> </p> -->
 
 
 <!--  
