@@ -153,6 +153,7 @@ I bridge the gap between **Big Data Infrastructure** and **High-Performance Full
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Bakhtawar-Fahim&layout=compact&title_color=38bdf8&icon_color=10b981&text_color=94a3b8&bg_color=0f172a&hide_border=true&border_radius=10" />
 </div>
+[![Syed-Bakhtawar-Fahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syed-Bakhtawar-Fahim&show_icons=true&theme=dark&hide_border=false&title_color=58a6ff&icon_color=79c0ff&text_color=8b949e&bg_color=0d1117&border_radius=8&hide=&show_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
