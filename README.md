@@ -11,13 +11,7 @@
 
 ---
 
-<div align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Syed-Bakhtawar-Fahim&theme=tokyonight&hide_border=true" 
-    width="100%" 
-    alt="GitHub Streak"
-  />
-</div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Syed-Bakhtawar-Fahim&theme=dark" alt="GitHub Streak" /></a>
 
 ---
 
@@ -79,10 +73,7 @@ I bridge the gap between **Big Data Infrastructure** and **High-Performance Full
 
 <br />
 
-<div align="center">
-<!-- Fixed Streak Stats URL -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=syed-bakhtawar-fahim&theme=tokyonight-duo&hide_border=true" width="100%" alt="GitHub Streak" />
-</div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Syed-Bakhtawar-Fahim&theme=dark" alt="GitHub Streak" /></a>
 
 ---
 
