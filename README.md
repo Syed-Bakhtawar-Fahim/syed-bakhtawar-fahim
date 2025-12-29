@@ -11,11 +11,13 @@
 
 ---
 
-<p align="center">
-  <a href="https://syedbakhtawarfahim.dev/" target="_blank">
-    <img src="https://res.cloudinary.com/dxn7uoj80/image/upload/v1766394285/SendEmail/syedbakhtawarfahim_dev_c79fecb0395a_gclrbk.png" alt="Syed's Portfolio" width="100%" style="border-radius: 15px; border: 1px solid #1E293B;"/>
-  </a>
-</p>
+<div align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=Syed-Bakhtawar-Fahim&theme=tokyonight&hide_border=true" 
+    width="100%" 
+    alt="GitHub Streak"
+  />
+</div>
 
 ---
 
