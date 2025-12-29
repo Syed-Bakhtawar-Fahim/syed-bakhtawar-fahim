@@ -4,7 +4,7 @@
 ### Senior Software & Data Engineer | Fintech Specialist | Architect
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-3+%20Years-0077B5?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-4+%20Years-0077B5?style=for-the-badge&logo=codeforces&logoColor=white" />
   <img src="https://img.shields.io/badge/Projects-50+-10B981?style=for-the-badge&logo=rocket&logoColor=white" />
   <img src="https://img.shields.io/badge/Certified-Data%20Engineer-F59E0B?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
