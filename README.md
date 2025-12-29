@@ -20,32 +20,120 @@ I bridge the gap between **Big Data Infrastructure** and **High-Performance Full
 ### 🛠️ Core Expertise
 
 <table width="100%">
-  <tr>
-    <th width="33%" align="left">📊 Data Engineering</th>
-    <th width="33%" align="left">⚙️ Backend Architecture</th>
-    <th width="33%" align="left">💻 Frontend Excellence</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      • Big Data (PySpark / AWS)<br/>
-      • ETL Pipeline Engineering<br/>
-      • Analytical Modeling (Pandas)<br/>
-      • DB Optimization (MySQL/NoSQL)
-    </td>
-    <td valign="top">
-      • Enterprise NestJS / Node.js<br/>
-      • Microservices Architecture<br/>
-      • Cloud Infrastructure (AWS)<br/>
-      • Advanced REST & GraphQL APIs
-    </td>
-    <td valign="top">
-      • Scalable React / TypeScript<br/>
-      • Modern UI/UX (Tailwind CSS)<br/>
-      • State Management (Redux)<br/>
-      • Performance Optimization
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🏗️ Architecture & Design
+- Object-Oriented Programming (OOP)  
+- Layered Architecture  
+- Modular Architecture  
+- Serverless Architecture  
+- RESTful API Design  
+
+</td>
+<td width="33%" valign="top">
+
+### 💻 Programming Languages
+- JavaScript  
+- TypeScript  
+- Python  
+
+</td>
+<td width="33%" valign="top">
+
+### 📚 Libraries & Frameworks
+- Node.js  
+- Express.js  
+- React.js  
+- Redis  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- BeautifulSoup  
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 🗄️ Databases & ORM
+- SQL  
+- MySQL  
+- PostgreSQL  
+- MongoDB  
+- Sequelize ORM  
+- TypeORM  
+- Mongoose  
+
+</td>
+<td valign="top">
+
+### ☁️ Cloud & DevOps
+- AWS EC2  
+- AWS S3  
+- Elastic Beanstalk  
+- AWS EMR  
+- AWS RDS  
+- AWS SES  
+- AWS SQS  
+- AWS Lambda  
+- AWS Step Functions (State Machines)  
+- Netlify  
+- Heroku  
+- Docker  
+- CI/CD (GitHub Actions)  
+- Nginx  
+
+</td>
+<td valign="top">
+
+### 📊 Big Data & Analytics
+- Apache Spark (PySpark)  
+- Apache Airflow  
+- Apache Kafka  
+- Hadoop (EMR)  
+- Data Visualization & Analytics  
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 🤖 AI & Machine Learning
+- OpenAI API Integration  
+- Hugging Face Inference  
+- LangChain.js  
+- Natural NLP (Node.js)  
+- TensorFlow.js  
+- Machine Learning Pipelines  
+- Model Inference & Optimization  
+
+</td>
+<td valign="top">
+
+### 🛠️ Tools & Monitoring
+- Swagger  
+- Postman  
+- Prometheus  
+- Grafana  
+- k6 Load Testing  
+- CloudWatch  
+
+</td>
+<td valign="top">
+
+### 🔧 Version Control
+- Git  
+- GitHub  
+- Bitbucket  
+
+</td>
+</tr>
 </table>
+
 
 ---
 
@@ -68,6 +156,67 @@ I bridge the gap between **Big Data Infrastructure** and **High-Performance Full
 </div>
 
 <br />
+
+---
+### 🚀 Open Source Projects
+<table width="100%">
+<tr>
+<td valign="top">
+
+#### 🔁 AWS Step Migration (NPM Package)
+<a href="https://www.npmjs.com/package/aws-step-cloner" target="_blank">
+  aws-step-cloner
+</a>
+<br/>
+Developed a Node.js utility to download, clone, and re-upload AWS Step Functions and their associated Lambda functions.
+<br/><br/>
+<b>Key Features:</b>
+- Cross-region & cross-account workflow migration  
+- Automatic ARN remapping  
+- Zero-manual configuration  
+- Safe and repeatable deployments  
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+#### 🛡️ Express Shield SecureKit (NPM Package)
+<a href="https://www.npmjs.com/package/express-shield-securekit" target="_blank">
+  Express Shield SecureKit
+</a>
+<br/>
+Built a modular security middleware for Express.js applications with a flexible, plug-and-play architecture.
+<br/><br/>
+<b>Security Capabilities:</b>
+- Rate Limiting  
+- SQL Injection Protection  
+- XSS Prevention  
+- Scalable middleware design  
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+#### 🗃️ Clone MySQL Database (Open Source)
+<a href="https://github.com/Syed-Bakhtawar-Fahim/clone_database_script" target="_blank">
+  MySQL Database Cloner
+</a>
+<br/>
+Developed a Python-based automation script to fully clone MySQL databases.
+<br/><br/>
+<b>Supported Features:</b>
+- Tables & Views  
+- Stored Procedures & Functions  
+- Foreign Keys & Definers  
+- Automatic target database creation  
+
+</td>
+</tr>
+</table>
 
 ---
 
