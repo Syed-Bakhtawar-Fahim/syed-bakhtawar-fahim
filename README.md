@@ -6,10 +6,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-4+%20Years-0077B5?style=for-the-badge&logo=codeforces&logoColor=white" />
   <img src="https://img.shields.io/badge/Projects-50+-10B981?style=for-the-badge&logo=rocket&logoColor=white" />
- <a href="https://badges.parchment.eu/public/assertions/4nfJOTGfRWadrJYKH3nalA?identity__email=bakhtawarfahim10@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Certified-Data%20Engineer-F59E0B?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Certified-Data%20Engineer-F59E0B?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<a href="https://eu.badgr.com/public/assertions/4nfJOTGfRWadrJYKH3nalA?identity__email=bakhtawarfahim10@gmail.com&action=download" target="_blank" style="text-decoration:none; margin-left:8px;">
+  &#10148; View Certificate
 </a>
-
 </p>
 
 ---
