@@ -11,10 +11,6 @@
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Syed-Bakhtawar-Fahim&theme=dark&hide_total_contributions=true&hide_current_streak=true)](https://git.io/streak-stats)
-
----
-
 ### 🏛️ Professional Summary
 
 I bridge the gap between **Big Data Infrastructure** and **High-Performance Full Stack Systems**. Currently engineering the future of finance at **Regtify**, I specialize in building scalable architectures that transform raw data into actionable business intelligence.
@@ -72,9 +68,6 @@ I bridge the gap between **Big Data Infrastructure** and **High-Performance Full
 </div>
 
 <br />
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Syed-Bakhtawar-Fahim&theme=dark&hide_total_contributions=true&hide_current_streak=true)](https://git.io/streak-stats)
-
 
 ---
 
