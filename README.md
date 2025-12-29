@@ -151,7 +151,7 @@ I bridge the gap between **Big Data Infrastructure** and **High-Performance Full
 ### 📊 Engineering Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Syed-Bakhtawar-Fahim&show_icons=true&title_color=38bdf8&icon_color=10b981&text_color=94a3b8&bg_color=0f172a&hide_border=true&border_radius=10" />
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Syed-Bakhtawar-Fahim" alt="GitHub Streak" /></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Bakhtawar-Fahi&layout=compact&title_color=38bdf8&icon_color=10b981&text_color=94a3b8&bg_color=0f172a&hide_border=true&border_radius=10" />
 </div>
 
